@@ -25,7 +25,7 @@ The base project you cloned already contains all the labs, source code, and conf
 Clone the shared training repository (provided by your instructor):
 
 ```bash
-git clone git@github.com:h4mdi/deploy-eks.git
+git clone git@github.com:Rym28/voting-app-Ryma.git
 cd deploy-eks
 ```
 
@@ -35,8 +35,6 @@ This directory already includes everything:
 Complete Lab (Part1).md
 Complete Lab (Part2).md
 compose.yaml
-k8s/
-.github/workflows/
 vote/, result/, worker/, etc.
 ```
 
@@ -99,8 +97,7 @@ Your personal repository now contains the full Voting App lab environment.
 
 Check on your GitHub account — you should see:
 
-* `k8s/` folder
-* `.github/workflows/` folder
+
 * `vote/`, `result/`, `worker/`, etc.
 * `Complete Lab (Part1).md` and `Complete Lab (Part2).md`
 
